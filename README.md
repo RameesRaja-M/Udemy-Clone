@@ -1,4 +1,4 @@
-Description:
+
 This project is a clone of Udemy's homepage, created using HTML, CSS, and Flexbox for layout management.
 It includes positioning for precise element placement. Animations for a dynamic user experience. 
 Media queries to ensure responsiveness across various devices.
@@ -33,7 +33,8 @@ A fully responsive Udemy clone homepage built with HTML and CSS. This project de
 
 1. Clone the repository:
    ```bash
-   
+link For:
+           https://rameesraja-m.github.io/Udemy-Clone/
 
 
 
